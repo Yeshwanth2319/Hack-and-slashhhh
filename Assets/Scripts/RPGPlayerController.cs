@@ -5,11 +5,11 @@ public class PlayerMovement : MonoBehaviour
 {
     public float speed = 5f;
 
-    private Animator animator;
+    //private Animator animator;
    
     void Start()
     {
-        animator = GetComponent<Animator>();
+        //animator = GetComponent<Animator>();
     }
 
     void Update()
@@ -22,8 +22,8 @@ public class PlayerMovement : MonoBehaviour
         Vector3 movement = new Vector3(horizontal,0f,vertical);
         transform.Translate(movement * speed * Time.deltaTime,Space.World);
 
-        float movementAmount = movement.magnitude;
-        animator.SetFloat("Speed", movementAmount);
+        //float movementAmount = movement.magnitude;
+       // animator.SetFloat("Speed", movementAmount);
     }
    
 }

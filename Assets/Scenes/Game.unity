@@ -93,7 +93,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 20201, guid: 0000000000000000f000000000000000, type: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: fdeb9b76381d6d44e81f65be1da9a55f, type: 2}
   m_LightingSettings: {fileID: 0}
 --- !u!196 &4
 NavMeshSettings:
@@ -290,7 +290,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a0c96b366d18343917aa5843fad91f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BreakableStone
-  breakEffect: {fileID: 8482527608151615562, guid: b42f183ab73ca3d4285225a5df9f1632, type: 3}
+  breakEffect: {fileID: 6166290150396348332, guid: 2e14f0ff0931c5a46ae81c24ade2bbbe, type: 3}
   breakSound: {fileID: 8300000, guid: 0f5af816974e9e7448c2a0400e40b940, type: 3}
   cameraFollow: {fileID: 1179137629}
 --- !u!1 &131207525 stripped
@@ -337,7 +337,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a0c96b366d18343917aa5843fad91f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BreakableStone
-  breakEffect: {fileID: 8482527608151615562, guid: b42f183ab73ca3d4285225a5df9f1632, type: 3}
+  breakEffect: {fileID: 6166290150396348332, guid: 2e14f0ff0931c5a46ae81c24ade2bbbe, type: 3}
   breakSound: {fileID: 8300000, guid: 0f5af816974e9e7448c2a0400e40b940, type: 3}
   cameraFollow: {fileID: 1179137629}
 --- !u!1001 &176812925
@@ -796,7 +796,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a0c96b366d18343917aa5843fad91f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BreakableStone
-  breakEffect: {fileID: 8482527608151615562, guid: b42f183ab73ca3d4285225a5df9f1632, type: 3}
+  breakEffect: {fileID: 6166290150396348332, guid: 2e14f0ff0931c5a46ae81c24ade2bbbe, type: 3}
   breakSound: {fileID: 8300000, guid: 0f5af816974e9e7448c2a0400e40b940, type: 3}
   cameraFollow: {fileID: 1179137629}
 --- !u!1001 &352338587
@@ -913,7 +913,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a0c96b366d18343917aa5843fad91f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BreakableStone
-  breakEffect: {fileID: 8482527608151615562, guid: b42f183ab73ca3d4285225a5df9f1632, type: 3}
+  breakEffect: {fileID: 6166290150396348332, guid: 2e14f0ff0931c5a46ae81c24ade2bbbe, type: 3}
   breakSound: {fileID: 8300000, guid: 0f5af816974e9e7448c2a0400e40b940, type: 3}
   cameraFollow: {fileID: 1179137629}
 --- !u!4 &353230400 stripped
@@ -1498,7 +1498,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a0c96b366d18343917aa5843fad91f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BreakableStone
-  breakEffect: {fileID: 8482527608151615562, guid: b42f183ab73ca3d4285225a5df9f1632, type: 3}
+  breakEffect: {fileID: 6166290150396348332, guid: 2e14f0ff0931c5a46ae81c24ade2bbbe, type: 3}
   breakSound: {fileID: 8300000, guid: 0f5af816974e9e7448c2a0400e40b940, type: 3}
   cameraFollow: {fileID: 1179137629}
 --- !u!1 &552521403 stripped
@@ -1540,7 +1540,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a0c96b366d18343917aa5843fad91f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BreakableStone
-  breakEffect: {fileID: 8482527608151615562, guid: b42f183ab73ca3d4285225a5df9f1632, type: 3}
+  breakEffect: {fileID: 6166290150396348332, guid: 2e14f0ff0931c5a46ae81c24ade2bbbe, type: 3}
   breakSound: {fileID: 8300000, guid: 0f5af816974e9e7448c2a0400e40b940, type: 3}
   cameraFollow: {fileID: 1179137629}
 --- !u!4 &552521408 stripped
@@ -6503,7 +6503,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a0c96b366d18343917aa5843fad91f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BreakableStone
-  breakEffect: {fileID: 8482527608151615562, guid: b42f183ab73ca3d4285225a5df9f1632, type: 3}
+  breakEffect: {fileID: 6166290150396348332, guid: 2e14f0ff0931c5a46ae81c24ade2bbbe, type: 3}
   breakSound: {fileID: 8300000, guid: 0f5af816974e9e7448c2a0400e40b940, type: 3}
   cameraFollow: {fileID: 1179137629}
 --- !u!1001 &666656937
@@ -6752,7 +6752,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a0c96b366d18343917aa5843fad91f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BreakableStone
-  breakEffect: {fileID: 8482527608151615562, guid: b42f183ab73ca3d4285225a5df9f1632, type: 3}
+  breakEffect: {fileID: 6166290150396348332, guid: 2e14f0ff0931c5a46ae81c24ade2bbbe, type: 3}
   breakSound: {fileID: 8300000, guid: 0f5af816974e9e7448c2a0400e40b940, type: 3}
   cameraFollow: {fileID: 1179137629}
 --- !u!1 &723628837
@@ -11635,7 +11635,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a0c96b366d18343917aa5843fad91f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BreakableStone
-  breakEffect: {fileID: 8482527608151615562, guid: b42f183ab73ca3d4285225a5df9f1632, type: 3}
+  breakEffect: {fileID: 6166290150396348332, guid: 2e14f0ff0931c5a46ae81c24ade2bbbe, type: 3}
   breakSound: {fileID: 8300000, guid: 0f5af816974e9e7448c2a0400e40b940, type: 3}
   cameraFollow: {fileID: 1179137629}
 --- !u!1 &831593151
@@ -11782,7 +11782,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!108 &837236514
 Light:
   m_ObjectHideFlags: 0
@@ -11794,7 +11794,7 @@ Light:
   serializedVersion: 12
   m_Type: 1
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 1
+  m_Intensity: 1.5
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -11803,7 +11803,7 @@ Light:
     m_Type: 2
     m_Resolution: -1
     m_CustomResolution: -1
-    m_Strength: 1
+    m_Strength: 0.4
     m_Bias: 0.05
     m_NormalBias: 0.4
     m_NearPlane: 0.2
@@ -12011,7 +12011,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a0c96b366d18343917aa5843fad91f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BreakableStone
-  breakEffect: {fileID: 8482527608151615562, guid: b42f183ab73ca3d4285225a5df9f1632, type: 3}
+  breakEffect: {fileID: 6166290150396348332, guid: 2e14f0ff0931c5a46ae81c24ade2bbbe, type: 3}
   breakSound: {fileID: 8300000, guid: 0f5af816974e9e7448c2a0400e40b940, type: 3}
   cameraFollow: {fileID: 1179137629}
 --- !u!1001 &940710760
@@ -17027,7 +17027,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a0c96b366d18343917aa5843fad91f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BreakableStone
-  breakEffect: {fileID: 8482527608151615562, guid: b42f183ab73ca3d4285225a5df9f1632, type: 3}
+  breakEffect: {fileID: 6166290150396348332, guid: 2e14f0ff0931c5a46ae81c24ade2bbbe, type: 3}
   breakSound: {fileID: 8300000, guid: 0f5af816974e9e7448c2a0400e40b940, type: 3}
   cameraFollow: {fileID: 1179137629}
 --- !u!1001 &980108064
@@ -17316,7 +17316,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a0c96b366d18343917aa5843fad91f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BreakableStone
-  breakEffect: {fileID: 8482527608151615562, guid: b42f183ab73ca3d4285225a5df9f1632, type: 3}
+  breakEffect: {fileID: 6166290150396348332, guid: 2e14f0ff0931c5a46ae81c24ade2bbbe, type: 3}
   breakSound: {fileID: 8300000, guid: 0f5af816974e9e7448c2a0400e40b940, type: 3}
   cameraFollow: {fileID: 1179137629}
 --- !u!1 &1120099848 stripped
@@ -17363,7 +17363,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a0c96b366d18343917aa5843fad91f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BreakableStone
-  breakEffect: {fileID: 8482527608151615562, guid: b42f183ab73ca3d4285225a5df9f1632, type: 3}
+  breakEffect: {fileID: 6166290150396348332, guid: 2e14f0ff0931c5a46ae81c24ade2bbbe, type: 3}
   breakSound: {fileID: 8300000, guid: 0f5af816974e9e7448c2a0400e40b940, type: 3}
   cameraFollow: {fileID: 1179137629}
 --- !u!1001 &1165701706
@@ -17687,7 +17687,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1192321376
 Transform:
   m_ObjectHideFlags: 0
@@ -17761,7 +17761,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a0c96b366d18343917aa5843fad91f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BreakableStone
-  breakEffect: {fileID: 8482527608151615562, guid: b42f183ab73ca3d4285225a5df9f1632, type: 3}
+  breakEffect: {fileID: 6166290150396348332, guid: 2e14f0ff0931c5a46ae81c24ade2bbbe, type: 3}
   breakSound: {fileID: 8300000, guid: 0f5af816974e9e7448c2a0400e40b940, type: 3}
   cameraFollow: {fileID: 1179137629}
 --- !u!1 &1245814443 stripped
@@ -17808,7 +17808,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a0c96b366d18343917aa5843fad91f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BreakableStone
-  breakEffect: {fileID: 8482527608151615562, guid: b42f183ab73ca3d4285225a5df9f1632, type: 3}
+  breakEffect: {fileID: 6166290150396348332, guid: 2e14f0ff0931c5a46ae81c24ade2bbbe, type: 3}
   breakSound: {fileID: 8300000, guid: 0f5af816974e9e7448c2a0400e40b940, type: 3}
   cameraFollow: {fileID: 1179137629}
 --- !u!1 &1268125733 stripped
@@ -17855,7 +17855,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a0c96b366d18343917aa5843fad91f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BreakableStone
-  breakEffect: {fileID: 8482527608151615562, guid: b42f183ab73ca3d4285225a5df9f1632, type: 3}
+  breakEffect: {fileID: 6166290150396348332, guid: 2e14f0ff0931c5a46ae81c24ade2bbbe, type: 3}
   breakSound: {fileID: 8300000, guid: 0f5af816974e9e7448c2a0400e40b940, type: 3}
   cameraFollow: {fileID: 1179137629}
 --- !u!1 &1281428555 stripped
@@ -17902,7 +17902,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a0c96b366d18343917aa5843fad91f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BreakableStone
-  breakEffect: {fileID: 8482527608151615562, guid: b42f183ab73ca3d4285225a5df9f1632, type: 3}
+  breakEffect: {fileID: 6166290150396348332, guid: 2e14f0ff0931c5a46ae81c24ade2bbbe, type: 3}
   breakSound: {fileID: 8300000, guid: 0f5af816974e9e7448c2a0400e40b940, type: 3}
   cameraFollow: {fileID: 1179137629}
 --- !u!1 &1282871860
@@ -23450,7 +23450,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a0c96b366d18343917aa5843fad91f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BreakableStone
-  breakEffect: {fileID: 8482527608151615562, guid: b42f183ab73ca3d4285225a5df9f1632, type: 3}
+  breakEffect: {fileID: 6166290150396348332, guid: 2e14f0ff0931c5a46ae81c24ade2bbbe, type: 3}
   breakSound: {fileID: 8300000, guid: 0f5af816974e9e7448c2a0400e40b940, type: 3}
   cameraFollow: {fileID: 1179137629}
 --- !u!1 &1460437989
@@ -23751,7 +23751,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a0c96b366d18343917aa5843fad91f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BreakableStone
-  breakEffect: {fileID: 8482527608151615562, guid: b42f183ab73ca3d4285225a5df9f1632, type: 3}
+  breakEffect: {fileID: 6166290150396348332, guid: 2e14f0ff0931c5a46ae81c24ade2bbbe, type: 3}
   breakSound: {fileID: 8300000, guid: 0f5af816974e9e7448c2a0400e40b940, type: 3}
   cameraFollow: {fileID: 1179137629}
 --- !u!1 &1704135065 stripped
@@ -23798,7 +23798,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a0c96b366d18343917aa5843fad91f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BreakableStone
-  breakEffect: {fileID: 8482527608151615562, guid: b42f183ab73ca3d4285225a5df9f1632, type: 3}
+  breakEffect: {fileID: 6166290150396348332, guid: 2e14f0ff0931c5a46ae81c24ade2bbbe, type: 3}
   breakSound: {fileID: 8300000, guid: 0f5af816974e9e7448c2a0400e40b940, type: 3}
   cameraFollow: {fileID: 1179137629}
 --- !u!1001 &1711789509
@@ -29200,7 +29200,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a0c96b366d18343917aa5843fad91f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BreakableStone
-  breakEffect: {fileID: 8482527608151615562, guid: b42f183ab73ca3d4285225a5df9f1632, type: 3}
+  breakEffect: {fileID: 6166290150396348332, guid: 2e14f0ff0931c5a46ae81c24ade2bbbe, type: 3}
   breakSound: {fileID: 8300000, guid: 0f5af816974e9e7448c2a0400e40b940, type: 3}
   cameraFollow: {fileID: 1179137629}
 --- !u!4 &1804413006 stripped
@@ -29454,7 +29454,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a0c96b366d18343917aa5843fad91f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BreakableStone
-  breakEffect: {fileID: 8482527608151615562, guid: b42f183ab73ca3d4285225a5df9f1632, type: 3}
+  breakEffect: {fileID: 6166290150396348332, guid: 2e14f0ff0931c5a46ae81c24ade2bbbe, type: 3}
   breakSound: {fileID: 8300000, guid: 0f5af816974e9e7448c2a0400e40b940, type: 3}
   cameraFollow: {fileID: 1179137629}
 --- !u!1 &1922815224 stripped
@@ -29501,7 +29501,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22a0c96b366d18343917aa5843fad91f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BreakableStone
-  breakEffect: {fileID: 8482527608151615562, guid: b42f183ab73ca3d4285225a5df9f1632, type: 3}
+  breakEffect: {fileID: 6166290150396348332, guid: 2e14f0ff0931c5a46ae81c24ade2bbbe, type: 3}
   breakSound: {fileID: 8300000, guid: 0f5af816974e9e7448c2a0400e40b940, type: 3}
   cameraFollow: {fileID: 1179137629}
 --- !u!1 &1954920557
